@@ -1,3 +1,3 @@
-NAME: Aditya Vikram Singh
-EMAIL: avsingh@umass.edu
-FEEDBACK: I enjoyed having the crowd!
+NAME: Sriram Koukuntla
+EMAIL: skoukuntla@umass.edu
+FEEDBACK: Learning about git and repositories is very interesting.
