@@ -1,3 +1,6 @@
 NAME: Aditya Vikram Singh
 EMAIL: avsingh@umass.edu
 FEEDBACK: I enjoyed having the crowd!
+NAME: Wenhao Yang
+EMAIL: wenhaoyang@umass.edu
+FEEDBACK: I'm enjoying learning about Github.
