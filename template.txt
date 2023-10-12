@@ -1,3 +1,7 @@
 NAME: Aditya Vikram Singh
 EMAIL: avsingh@umass.edu
 FEEDBACK: I enjoyed having the crowd!
+
+Name: David Makarovsky
+Email: dmakarovsky@umass.edu
+Feedback: I am learning about GitHub
