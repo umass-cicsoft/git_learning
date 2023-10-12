@@ -6,3 +6,7 @@ FEEDBACK: I enjoyed this session.
 NAME: Aditya Vikram Singh
 EMAIL: aditya.11.present@gmail.com
 FEEDBACK: I enjoyed having the crowd!
+
+NAME: Wenhao Yang
+EMAIL: wenhaoyang@umass.edu
+FEEDBACK: I'm enjoying learning about Github.
